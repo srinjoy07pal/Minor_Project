@@ -1,2 +1,3 @@
-# Depression, Anxiety, and Stress WIP
-EDA on Kaggle dataset for predicting depression, anxiety, and stress
+# Depression, Anxiety, and Stress
+Kaggle dataset for predicting depression, anxiety, and stress
+
